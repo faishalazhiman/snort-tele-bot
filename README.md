@@ -56,8 +56,8 @@ Gantilah `<PASTE_TOKEN_API>` dengan token API Anda dan `<CHAT_ID>` dengan Chat I
 ### Clone Repository
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/faishalazhiman/Snort-Bot-Telegram-Shell
-   cd Snort-Bot-Telegram-Shell
+   git clone https://github.com/faishalazhiman/snort-tele-bot.git
+   cd snor-tele-bot.git
    chmod +x bot-tele.sh
    ```
 
